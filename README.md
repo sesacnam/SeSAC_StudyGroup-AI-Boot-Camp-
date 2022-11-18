@@ -1,3 +1,3 @@
 # SeSAC_StudyGroup-AI-Boot-Camp-
 
-Hello! World!
+Hello! We are Study Group 1 
